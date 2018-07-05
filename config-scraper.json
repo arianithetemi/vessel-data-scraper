@@ -1,0 +1,8 @@
+{
+	"minutes": "*",
+	"hour": "*",
+	"dayOfMonth": "*",
+	"month": "*",
+	"dayOfWeek": "*",
+	"pages": 2
+}
